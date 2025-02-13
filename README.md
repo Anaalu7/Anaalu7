@@ -7,6 +7,7 @@
 ## My name is Ana Luiza and my nickname is "Analu"!
 
 - 🔭 I’m currently working on Web Development intern at the Senado Federal through APEX Oracle, where I work with Oracle Database and the PL/SQL language. 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40" />
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
