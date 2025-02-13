@@ -3,9 +3,11 @@
 <!--
 **Anaalu7/Anaalu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hello! Welcome to my Github profile.
+## My name is Ana Luiza and my nickname is "Analu"!
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Web Development intern at the Senado Federal through APEX Oracle, where I work with Oracle Database and the PL/SQL language. 
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
