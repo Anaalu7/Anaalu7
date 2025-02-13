@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my GitHub profile
-![Bonace assenado](https://github.com/user-attachments/assets/1b519e84-5832-4492-b2ad-942382ca0087)
+<img loading="lazy" src= "https://github.com/user-attachments/assets/1b519e84-5832-4492-b2ad-942382ca0087"  width="60" height="60">
 
 ## About Me
 
