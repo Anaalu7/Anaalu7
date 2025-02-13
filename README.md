@@ -1,6 +1,5 @@
 # 👋 Hello! Welcome to my GitHub profile
-<img loading="lazy" src="https://github.com/user-attachments/assets/696cd666-db97-46e5-ae7a-4e3b977d7ef6" width="150" height="150" style="border-radius: 50%;" alt="Profile Avatar">
-
+![Bonace assenado](https://github.com/user-attachments/assets/1b519e84-5832-4492-b2ad-942382ca0087)
 
 ## About Me
 
