@@ -1,4 +1,6 @@
 # 👋 Hello! Welcome to my GitHub profile
+<img loading="lazy" src="https://github.com/user-attachments/assets/696cd666-db97-46e5-ae7a-4e3b977d7ef6" width="150" height="150" style="border-radius: 50%;" alt="Profile Avatar">
+
 
 ## About Me
 
