@@ -3,7 +3,7 @@
 
 ## About Me
 
-My name is Ana Luiza, but you can call me "Analu"! I'm a 3-year-old, bookaholic, Computer Science student at Universidade Católica de Brasília (UCB), and I'm from Brasília, Brazil. I have a strong passion for **Software Development** and **Data Science**.
+My name is Ana Luiza, but you can call me "Analu"! I'm a 23-year-old, bookaholic, Computer Science student at Universidade Católica de Brasília (UCB), and I'm from Brasília, Brazil. I have a strong passion for **Software Development** and **Data Science**.
 
 ## 💼 Current Work
 
